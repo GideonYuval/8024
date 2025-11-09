@@ -12,8 +12,8 @@ namespace _8024
     {
         static void Main(string[] args)
         {
-            AAA c1 = new AAA(2);
-            BBB d1 = new BBB(3);
+            new AAA(2);
+            new BBB(3);
         }
     }
 
